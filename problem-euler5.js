@@ -26,4 +26,4 @@ function problem5(maxNum){
 
 const ans = problem5(20);
 
-console.log(ans)
+console.log("The answer is: " + ans)
